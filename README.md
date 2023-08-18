@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/tEyKSxv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The ticket will be created and it will be given a priority life cycle like shown in the color coded section above. Based on the urgency the ticket will have a life cycle/deadline. 
+The ticket will be created and it will be given a priority/life cycle like shown in the color coded section above.
 </p>
 <br />
 
